@@ -1,4 +1,9 @@
-<h1 align=center >D4RKJVCK</h1>
+
+<h1 align=center >
+  <img alt="Rust" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true">
+  <br>
+  D4RKJVCK
+</h1>
 
 [![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](src/main.rs)
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](./backend/cmd/web/main.go)
@@ -17,7 +22,9 @@
 - 🔭 I’m currently working on 01
 - 🦀 I’m currently learning RUST
 - 📫 How to reach me: https://www.linkedin.com/in/d4rkjvck/
+
 <!--
+[![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
