@@ -1,4 +1,4 @@
-# D4RKJVCK
+<h1 align=center >D4RKJVCK</h1>
 
 [![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](src/main.rs)
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](./backend/cmd/web/main.go)
