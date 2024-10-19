@@ -23,7 +23,9 @@
 - 🦀 I’m currently learning RUST
 - 📫 How to reach me: https://www.linkedin.com/in/d4rkjvck/
 
-[![brain_fuck](./brain_fuck.png)](./brain_fuck.png)
+<h3 align=center>
+  <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
+</h3>
 
 <!--
 [![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
