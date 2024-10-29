@@ -1,6 +1,6 @@
 
 <h1 align=center >
-  <img alt="Rust" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_rust.png?raw=true">
+  <img alt="Rust" src="./ferris.svg">
   <br>
   D4RKJVCK
 </h1>
