@@ -1,8 +1,8 @@
 
 <h1 align=center >
-  D4RKJVCK
-  <br>
   <img alt="Rust" src="./ferris.svg">
+  <br>
+  D4RKJVCK
 </h1>
 
 [![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](src/main.rs)
