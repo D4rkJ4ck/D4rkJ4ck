@@ -8,7 +8,7 @@
 [![RUST](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org)
 [![GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![DOCKER](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
 [![SHELL SCRIPT](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)]()
 [![SQLITE](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()
 [![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)]()
@@ -27,8 +27,52 @@
   <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
 </h3>
 
-<!--
-[![Docker](https://i.imgur.com/VyjCJuz.png)](https://www.docker.com/)
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
+## MEMO:
+### Linux File System Hierarchy
+```
+📂./
+  |
+  +-📂 /boot
+  |
+  +-📂 /dev
+  |
+  +--📂 /usr
+  |      |
+  |      +-📂 /local
+  |      |      |
+  |      |      +-📂 /bin
+  |      |
+  |      +-📂 /bin
+  |      |
+  |      +-📂 /sbin
+  |      |
+  |      +-📂 /include
+  |
+  +-📂 /bin
+  |
+  +-📂 /sbin
+  |
+  +-📂 /home
+  |      |
+  |      +-📂 /d4rkjvck
+  |      |
+  |      +-...
+  |
+  +-📂 /lib
+  |
+  +-📂 /tmp
+  |
+  +-📂 /var
+  |      |
+  |      +-📂 /tmp
+  |      |
+  |      +-📂 /log
+  |      |
+  |      +-📂 /cache
+  |      |
+  |      +-📂 /spool
+  |
+  +-📂 /etc
+  |
+  +-📂 /proc
+```
