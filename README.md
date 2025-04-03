@@ -1,4 +1,3 @@
-
 <h1 align=center >
   <img alt="Rust" src="./logos/unsafe-rust.svg">
   <br>
@@ -20,10 +19,6 @@
 [![BASH](./logos/bash.svg)]()
 [![GIT](./logos/git.svg)]()
 [![SQLITE](./logos/sqlite.svg)]()
-[![MARKDOWN](./logos/markdown.svg)]()
-[![WARP](https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white)]()
-[![D3](https://img.shields.io/badge/d3%20js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)]()
-
 
 - 🔭 I’m currently coding at [Zone01 Dakar](https://www.zone01dakar.sn)
 - 🦀 I’m currently coding in [RUST](https://doc.rust-lang.org/book)
