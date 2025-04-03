@@ -20,8 +20,8 @@
 [![GIT](./logos/git.svg)]()
 [![SQLITE](./logos/sqlite.svg)]()
 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/d4rkjvck)
-
 <h3 align=center>
   <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
 </h3>
+
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/d4rkjvck)
