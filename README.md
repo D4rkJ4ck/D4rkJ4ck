@@ -1,5 +1,5 @@
 <h1 align=center >
-  <img alt="Rust" src="./logos/unsafe-rust.svg">
+  <img alt="Rust" src="./logos/unsafe.svg">
   <br>
   D4RKJVCK
 </h1>
