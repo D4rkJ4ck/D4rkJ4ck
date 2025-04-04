@@ -16,6 +16,7 @@
 ## TECHNOLOGIES
 
 [![DOCKER](./logos/docker.svg)](https://www.docker.com/)
+[![COMPOSE](./logos/compose.svg)]()
 [![BASH](./logos/bash.svg)]()
 [![GIT](./logos/git.svg)]()
 [![SQLITE](./logos/sqlite.svg)]()
