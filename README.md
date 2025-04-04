@@ -16,7 +16,7 @@
 ## TECHNOLOGIES
 
 [![DOCKER](./logos/docker.svg)](https://www.docker.com/)
-[![COMPOSE](./logos/compose.png)]()
+<img max-width="64px" max-height="64px" alt="COMPOSE" src="./logos/compose.png">
 [![BASH](./logos/bash.svg)]()
 [![GIT](./logos/git.svg)]()
 [![SQLITE](./logos/sqlite.svg)]()
