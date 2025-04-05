@@ -1,33 +1,36 @@
 <h1 align=center >
-  <img alt="Rust" src="./logos/unsafe.svg">
+  <img alt="Rust" src="./icons/unsafe.svg">
   <br>
   D4RKJVCK
 </h1>
 
 ## LANGUAGES
 
-[![RUST](./logos/ferris.svg)](https://www.rust-lang.org)
-[![GO](./logos/gopher.svg)](https://go.dev)
-[![JAVASCRIPT](logos/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](./logos/html.svg)]()
-[![CSS3](./logos/css.svg)]()
-[![GRAPHQL](./logos/graphql.svg)]()
+[![RUST](./icons/ferris.svg)](https://www.rust-lang.org)
+[![GO](./icons/gopher.svg)](https://go.dev)
+[![JAVASCRIPT](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](./icons/html.svg)]()
+[![CSS3](./icons/css.svg)]()
+[![SQL](./icons/sql.svg)]()
+[![GRAPHQL](./icons/graphql.svg)]()
 
 ## TECHNOLOGIES
 
-[![DOCKER](./logos/docker.svg)](https://www.docker.com/)
-<img max-width="64px" max-height="64px" alt="COMPOSE" src="./logos/compose.svg">
-[![BASH](./logos/bash.svg)]()
-[![GIT](./logos/git.svg)]()
-[![SQLITE](./logos/sqlite.svg)]()
+[![BASH](./icons/bash.svg)]()
+[![GIT](./icons/git.svg)]()
+[![DOCKER](./icons/docker.svg)](https://www.docker.com/)
+[![COMPOSE](./icons/compose.svg)](https://www.docker.com/)
+[![JSON](./icons/json.svg)]()
+[![TOML](./icons/toml.svg)]()
+[![SQLITE](./icons/sqlite.svg)]()
 
 ## TOOLS
-[![WARP](./logos/warp.svg)]()
+[![WARP](./icons/warp.svg)]()
 
 ## OPERATING SYSTEMS
 
-[![MACOS](./logos/macos.svg)]()
-[![LINUX](./logos/linux.svg)]()
+[![MACOS](./icons/macos.svg)]()
+[![LINUX](./icons/linux.svg)]()
 
 <h3 align=center>
   <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
