@@ -21,6 +21,9 @@
 [![GIT](./logos/git.svg)]()
 [![SQLITE](./logos/sqlite.svg)]()
 
+## TOOLS
+[![WARP](./logos/warp.svg)]()
+
 ## OPERATING SYSTEMS
 
 [![MACOS](./logos/macos.svg)]()
