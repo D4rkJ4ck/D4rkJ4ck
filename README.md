@@ -23,6 +23,7 @@
 [![JSON](./icons/json.svg)]()
 [![TOML](./icons/toml.svg)]()
 [![SQLITE](./icons/sqlite.svg)]()
+[![WEBSOCKET](./icons/websocket.svg)]()
 
 ## TOOLS
 [![WARP](./icons/warp.svg)]()
