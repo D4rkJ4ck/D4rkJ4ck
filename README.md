@@ -27,6 +27,7 @@
 
 ## TOOLS
 [![WARP](./icons/warp.svg)]()
+[![DESKTOP](./icons/desktop.svg)]()
 
 ## OPERATING SYSTEMS
 
