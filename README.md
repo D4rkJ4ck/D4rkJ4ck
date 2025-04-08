@@ -20,8 +20,10 @@
 [![GIT](./icons/git.svg)]()
 [![DOCKER](./icons/docker.svg)](https://www.docker.com/)
 [![COMPOSE](./icons/compose.svg)](https://www.docker.com/)
-[![JSON](./icons/json.svg)]()
+[![WEBCOMPONENTS](./icons/components.svg)]()
+[![CARGO](./icons/cargo.svg)]()
 [![TOML](./icons/toml.svg)]()
+[![JSON](./icons/json.svg)]()
 [![SQLITE](./icons/sqlite.svg)]()
 [![WEBSOCKET](./icons/websocket.svg)]()
 
