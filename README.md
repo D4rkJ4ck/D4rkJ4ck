@@ -8,28 +8,34 @@
 
 [![RUST](./icons/ferris.svg)](https://www.rust-lang.org)
 [![GO](./icons/gopher.svg)](https://go.dev)
+[![PYTHON](./icons/python.svg)](https://www.python.org/)
 [![JAVASCRIPT](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](./icons/html.svg)]()
-[![CSS3](./icons/css.svg)]()
-[![SQL](./icons/sql.svg)]()
-[![GRAPHQL](./icons/graphql.svg)]()
+[![HTML5](./icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](./icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SQL](./icons/sql.svg)](https://sql.sh/)
+[![GRAPHQL](./icons/graphql.svg)](https://graphql.org/)
 
 ## TECHNOLOGIES
 
-[![BASH](./icons/bash.svg)]()
-[![GIT](./icons/git.svg)]()
+[![BASH](./icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html)
+[![GIT](./icons/git.svg)](https://git-scm.com/)
 [![DOCKER](./icons/docker.svg)](https://www.docker.com/)
-[![COMPOSE](./icons/compose.svg)](https://www.docker.com/)
-[![WEBCOMPONENTS](./icons/components.svg)]()
-[![CARGO](./icons/cargo.svg)]()
-[![TOML](./icons/toml.svg)]()
-[![JSON](./icons/json.svg)]()
-[![SQLITE](./icons/sqlite.svg)]()
-[![WEBSOCKET](./icons/websocket.svg)]()
+[![COMPOSE](./icons/compose.svg)](https://docs.docker.com/compose/)
+[![WEBCOMPONENTS](./icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components)
+[![CARGO](./icons/cargo.svg)](https://doc.rust-lang.org/cargo/)
+[![TOML](./icons/toml.svg)](https://toml.io/en/)
+[![JSON](./icons/json.svg)](https://www.json.org/json-en.html)
+[![SQLITE](./icons/sqlite.svg)](https://sqlite.org/)
+[![WEBSOCKET](./icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+[![NUMPY](./icons/numpy.svg)](https://numpy.org/doc/stable/)
+[![CONDA](./icons/conda.svg)](https://docs.conda.io/en/latest/)
 
 ## TOOLS
 [![WARP](./icons/warp.svg)]()
 [![DESKTOP](./icons/desktop.svg)]()
+[![GITHUB](./icons/github.svg)]()
+[![GITKRAKEN](./icons/gitkraken.svg)]()
+[![JUPYTER](./icons/jupyter.svg)]()
 
 ## OPERATING SYSTEMS
 
