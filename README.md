@@ -8,7 +8,6 @@
 
 [![RUST](./icons/ferris.svg)](https://www.rust-lang.org)
 [![GO](./icons/gopher.svg)](https://go.dev)
-[![PYTHON](./icons/python.svg)](https://www.python.org/)
 [![JAVASCRIPT](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](./icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](./icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -27,15 +26,12 @@
 [![JSON](./icons/json.svg)](https://www.json.org/json-en.html)
 [![SQLITE](./icons/sqlite.svg)](https://sqlite.org/)
 [![WEBSOCKET](./icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
-[![NUMPY](./icons/numpy.svg)](https://numpy.org/doc/stable/)
-[![CONDA](./icons/conda.svg)](https://docs.conda.io/en/latest/)
 
 ## TOOLS
 [![WARP](./icons/warp.svg)]()
 [![DESKTOP](./icons/desktop.svg)]()
 [![GITHUB](./icons/github.svg)]()
 [![GITKRAKEN](./icons/gitkraken.svg)]()
-[![JUPYTER](./icons/jupyter.svg)]()
 
 ## OPERATING SYSTEMS
 
