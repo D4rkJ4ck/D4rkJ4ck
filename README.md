@@ -5,10 +5,10 @@
 </h1>
 
 <!-- LANGUAGES -->
-<section align=center style="margin: 50px 0">
+<section align=center>
   <h2>LANGUAGES</h2>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Front-end</legend>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Front-end</h3>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="icons/javascript.svg" alt="JS">
       </a>
@@ -18,32 +18,32 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="./icons/css.svg" alt="CSS">
       </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Back-end</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Back-end</h3>
     <a href="https://www.rust-lang.org">
       <img src="./icons/ferris.svg" alt="RUST">
     </a>
     <a href="https://go.dev">
       <img src="./icons/gopher.svg" alt="GO">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Database</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Database</h3>
     <a href="https://sql.sh/">
       <img src="./icons/sql.svg" alt="SQL">
     </a>
     <a href="https://graphql.org">
       <img src="./icons/graphql.svg" alt="GRAPHQL">
     </a>
-  </fieldset>
+  </article>
 </section>
 
 <!-- TECHNOLOGIES -->
-<section align=center style="margin: 50px 0">
+<section align=center>
   <h2>TECHNOLOGIES</h2>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Workflow</legend>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Workflow</h3>
     <a href="https://www.gnu.org/software/bash/manual/bash.html">
       <img src="./icons/bash.svg" alt="BASH">
     </a>
@@ -53,18 +53,18 @@
     <a href="https://doc.rust-lang.org/cargo/">
       <img src="./icons/cargo.svg" alt="CARGO">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>DevOps</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>DevOps</h3>
     <a href="https://www.docker.com/">
       <img src="./icons/docker.svg" alt="DOCKER">
     </a>
     <a href="https://docs.docker.com/compose/">
       <img src="./icons/compose.svg" alt="COMPOSE">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Web</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Web</h3>
     <a href="https://developer.mozilla.org/fr/docs/Web/API/Web_components">
       <img src="./icons/components.svg" alt="COMPONENTS">
     </a>
@@ -74,9 +74,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">
       <img src="./icons/websocket.svg" alt="WEBSOCKET">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Data</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Data</h3>
     <a href="https://sqlite.org/">
       <img src="./icons/sqlite.svg" alt="SQLITE">
     </a>
@@ -86,32 +86,32 @@
     <a href="https://www.json.org/json-en.html">
       <img src="./icons/json.svg" alt="JSON">
     </a>
-  </fieldset>
+  </article>
 </section>
 
 <!-- TOOLS -->
-<section align=center style="margin: 50px 0">
+<section align=center>
   <h2>TOOLS</h2>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Version Control</legend>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Version Control</h3>
     <a href="">
       <img src="./icons/github.svg" alt="GITHUB">
     </a>
     <a href="">
       <img src="./icons/gitkraken.svg" alt="KRAKEN">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Code Editor</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Code Editor</h3>
     <a href="">
       <img src="./icons/vscode.svg" alt="VSCODE">
     </a>
     <a href="">
       <img src="./icons/cursor.svg" alt="CURSOR">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Utilities</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Utilities</h3>
     <a href="">
       <img src="./icons/warp.svg" alt="WARP">
     </a>
@@ -121,31 +121,31 @@
     <a href="">
       <img src="./icons/postman.svg" alt="POSTMAN">
     </a>
-  </fieldset>
+  </article>
 </section>
 
 <!-- OPERATING SYSTEM -->
-<section align=center style="margin: 50px 0">
+<section align=center>
   <h2>OPERATING SYSTEMS</h2>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>OS</legend>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>OS</h3>
     <a href="">
       <img src="./icons/macos.svg" alt="MACOS">
     </a>
     <a href="">
       <img src="./icons/tux.svg" alt="LINUX">
     </a>
-  </fieldset>
-  <fieldset style="display: inline-block; border: 1px dotted">
-    <legend>Distributions</legend>
+  </article>
+  <article style="display: inline-block; margin: 0px 25px 20px 25px">
+    <h3>Distributions</h3>
     <a href="">
       <img src="./icons/ubuntu.svg" alt="UBUNTU">
     </a>
-  </fieldset>
+  </article>
 </section>
 
 <!-- CONTACT -->
-<section align=center style="margin: 50px 0">
+<section align=center>
   <h2>CONTACT</h2>
   <a href="https://www.linkedin.com/in/d4rkjvck">
     <img src="./icons/linked_in.svg" alt="LINKEDIN">
@@ -160,7 +160,7 @@
 
 
 <!-- STATS -->
-<section align=center style="margin: 50px 0">
+<section align=center>
   <h2>STATS</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkjvck&show_icons=true&theme=transparent" alt="STATS">
 </section>
