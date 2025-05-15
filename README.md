@@ -9,27 +9,36 @@
 ## LANGUAGES
 
 | Front-end | Back-end | Database |
-|:---------:|:---------:|:---------:|
-| [![HTML](./icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](./icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JS](./icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![RUST](./icons/ferris.svg)](https://www.rust-lang.org) [![GO](./icons/gopher.svg)](https://go.dev) | [![SQL](./icons/sql.svg)](https://sql.sh/) [![GRAPHQL](./icons/graphql.svg)](https://graphql.org/) |
+|:---------:|:--------:|:--------:|
+| [![JS](./icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![RUST](./icons/ferris.svg)](https://www.rust-lang.org) | [![GRAPHQL](./icons/graphql.svg)](https://graphql.org/) |
+| [![HTML](./icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![GO](./icons/gopher.svg)](https://go.dev) | [![SQL](./icons/sql.svg)](https://sql.sh/) |
+| [![CSS](./icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+
 
 <!-- TECHNOLOGIES -->
 ## TECHNOLOGIES
 
 | Scripting | DevOps | Web | Data |
-|:---------:|:---------:|:---------:|:---------:|
-| [![BASH](./icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html) [![GIT](./icons/git.svg)](https://git-scm.com/) [![CARGO](./icons/cargo.svg)](https://doc.rust-lang.org/cargo/) | [![DOCKER](./icons/docker.svg)](https://www.docker.com/) [![COMPOSE](./icons/compose.svg)](https://docs.docker.com/compose/) | [![COMPONENTS](./icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components) [![SVG](./icons/svg.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG) [![WEBSOCKET](./icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) | [![SQLITE](./icons/sqlite.svg)](https://sqlite.org/) [![TOML](./icons/toml.svg)](https://toml.io/en/) [![JSON](./icons/json.svg)](https://www.json.org/json-en.html) |
+|:---------:|:------:|:---:|:----:|
+| [![BASH](./icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html) | [![DOCKER](./icons/docker.svg)](https://www.docker.com/) | [![COMPONENTS](./icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components) | [![SQLITE](./icons/sqlite.svg)](https://sqlite.org/) |
+| [![GIT](./icons/git.svg)](https://git-scm.com/) | [![COMPOSE](./icons/compose.svg)](https://docs.docker.com/compose/) | [![SVG](./icons/svg.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG) | [![TOML](./icons/toml.svg)](https://toml.io/en/) |
+| [![CARGO](./icons/cargo.svg)](https://doc.rust-lang.org/cargo/) | | [![WEBSOCKET](./icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) | [![JSON](./icons/json.svg)](https://www.json.org/json-en.html) |
 
 <!-- TOOLS -->
 ## TOOLS
 
 | Version Control | Code Editors | Platforms |
 |:--------------:|:------------:|:----------:|
-| [![GITHUB](./icons/github.svg)]() [![KRAKEN](./icons/gitkraken.svg)]() | [![VSCODE](./icons/vscode.svg)]() [![CURSOR](./icons/cursor.svg)]() | [![WARP](./icons/warp.svg)]() [![DESKTOP](./icons/desktop.svg)]() [![POSTMAN](./icons/postman.svg)]() |
+| [![GITHUB](./icons/github.svg)]() | [![VSCODE](./icons/vscode.svg)]() | [![WARP](./icons/warp.svg)]() |
+| [![KRAKEN](./icons/gitkraken.svg)]() | [![CURSOR](./icons/cursor.svg)]() | [![DESKTOP](./icons/desktop.svg)]() |
+| | | [![POSTMAN](./icons/postman.svg)]() |
 
 <!-- OPERATING SYSTEMS -->
 ## OPERATING SYSTEMS
 
-[![MACOS](./icons/macos.svg)]() [![LINUX](./icons/tux.svg)]() [![UBUNTU](./icons/ubuntu.svg)]()
+[![MACOS](./icons/macos.svg)]()
+[![LINUX](./icons/tux.svg)]()
+[![UBUNTU](./icons/ubuntu.svg)]()
 
 <!-- STATS -->
 <section align=center>
