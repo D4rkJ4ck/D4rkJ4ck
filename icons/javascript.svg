@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48px" height="48px"
-  viewBox="-11.5 -10.23174 23 20.46348">
-  <title>React Logo</title>
-  <circle cx="0" cy="0" r="2.05" fill="#f7df1e" />
-  <g stroke="#f7df1e" stroke-width="1" fill="none">
-    <ellipse rx="11" ry="4.2" />
-    <ellipse rx="11" ry="4.2" transform="rotate(60)" />
-    <ellipse rx="11" ry="4.2" transform="rotate(120)" />
-  </g>
+<svg fill="none" height="48px" width="48px" xmlns="http://www.w3.org/2000/svg"
+    viewBox="-8 -8 160 160">
+    <path d="M10.383 126.894L0 0l124 .255-10.979 126.639-50.553 14.638z" fill="#e9ca32" />
+    <path d="M62.468 129.277V12.085l51.064.17-9.106 104.851z" fill="#ffde25" />
+    <g fill="#fff">
+        <path
+            d="M57 26H43.5v78L33 102V91.5l-12.5-2V113l36.5 9.5zM67.127 26H104.5L102 40.95H81.394v24.533H102L99.5 115l-32.373 7.5V107L89 99.5 90.263 79l-23.136 3.35z" />
+    </g>
 </svg>

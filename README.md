@@ -8,11 +8,11 @@
 <!-- LANGUAGES -->
 <section align=center>
   <h2>LANGUAGES</h2>
+  <a href="https://www.rust-lang.org"><img src="./icons/ferris.svg" alt="RUST"></a>
+  <a href="https://go.dev"><img src="./icons/gopher.svg" alt="GO"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" alt="JS"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html.svg" alt="HTML"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg" alt="CSS"></a>
-  <a href="https://www.rust-lang.org"><img src="./icons/ferris.svg" alt="RUST"></a>
-  <a href="https://go.dev"><img src="./icons/gopher.svg" alt="GO"></a>
   <a href="https://sql.sh/"><img src="./icons/sql.svg" alt="SQL"></a>
   <a href="https://graphql.org"><img src="./icons/graphql.svg" alt="GRAPHQL"></a>
 </section>
@@ -62,7 +62,6 @@
   <h2>CONTACT</h2>
   <a href="https://www.linkedin.com/in/d4rkjvck"><img src="./icons/linked_in.svg" alt="LINKEDIN"></a>
   <a href=""><img src="./icons/discord.svg" alt="DISCORD"></a>
-  <a href=""><img src="./icons/telegram.svg" alt="TELEGRAM"></a>
 </section>
 <br>
 
