@@ -7,8 +7,6 @@
 <!-- LANGUAGES -->
 <section align=center>
   <h2>LANGUAGES</h2>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Front-end</h3>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="icons/javascript.svg" alt="JS">
       </a>
@@ -18,32 +16,23 @@
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img src="./icons/css.svg" alt="CSS">
       </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Back-end</h3>
     <a href="https://www.rust-lang.org">
       <img src="./icons/ferris.svg" alt="RUST">
     </a>
     <a href="https://go.dev">
       <img src="./icons/gopher.svg" alt="GO">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Database</h3>
     <a href="https://sql.sh/">
       <img src="./icons/sql.svg" alt="SQL">
     </a>
     <a href="https://graphql.org">
       <img src="./icons/graphql.svg" alt="GRAPHQL">
     </a>
-  </article>
 </section>
 
 <!-- TECHNOLOGIES -->
 <section align=center>
   <h2>TECHNOLOGIES</h2>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Workflow</h3>
     <a href="https://www.gnu.org/software/bash/manual/bash.html">
       <img src="./icons/bash.svg" alt="BASH">
     </a>
@@ -53,18 +42,12 @@
     <a href="https://doc.rust-lang.org/cargo/">
       <img src="./icons/cargo.svg" alt="CARGO">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>DevOps</h3>
     <a href="https://www.docker.com/">
       <img src="./icons/docker.svg" alt="DOCKER">
     </a>
     <a href="https://docs.docker.com/compose/">
       <img src="./icons/compose.svg" alt="COMPOSE">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Web</h3>
     <a href="https://developer.mozilla.org/fr/docs/Web/API/Web_components">
       <img src="./icons/components.svg" alt="COMPONENTS">
     </a>
@@ -74,9 +57,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket">
       <img src="./icons/websocket.svg" alt="WEBSOCKET">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Data</h3>
     <a href="https://sqlite.org/">
       <img src="./icons/sqlite.svg" alt="SQLITE">
     </a>
@@ -86,32 +66,23 @@
     <a href="https://www.json.org/json-en.html">
       <img src="./icons/json.svg" alt="JSON">
     </a>
-  </article>
 </section>
 
 <!-- TOOLS -->
 <section align=center>
   <h2>TOOLS</h2>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Version Control</h3>
     <a href="">
       <img src="./icons/github.svg" alt="GITHUB">
     </a>
     <a href="">
       <img src="./icons/gitkraken.svg" alt="KRAKEN">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Code Editor</h3>
     <a href="">
       <img src="./icons/vscode.svg" alt="VSCODE">
     </a>
     <a href="">
       <img src="./icons/cursor.svg" alt="CURSOR">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Utilities</h3>
     <a href="">
       <img src="./icons/warp.svg" alt="WARP">
     </a>
@@ -121,27 +92,20 @@
     <a href="">
       <img src="./icons/postman.svg" alt="POSTMAN">
     </a>
-  </article>
 </section>
 
 <!-- OPERATING SYSTEM -->
 <section align=center>
   <h2>OPERATING SYSTEMS</h2>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>OS</h3>
     <a href="">
       <img src="./icons/macos.svg" alt="MACOS">
     </a>
     <a href="">
       <img src="./icons/tux.svg" alt="LINUX">
     </a>
-  </article>
-  <article style="display: inline-block; margin: 0px 25px 20px 25px">
-    <h3>Distributions</h3>
     <a href="">
       <img src="./icons/ubuntu.svg" alt="UBUNTU">
     </a>
-  </article>
 </section>
 
 <!-- CONTACT -->
@@ -165,6 +129,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkjvck&show_icons=true&theme=transparent" alt="STATS">
 </section>
 
-<h3 align=center>
   <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
-</h3>
