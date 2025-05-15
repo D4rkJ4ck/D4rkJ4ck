@@ -6,86 +6,30 @@
 <br>
 
 <!-- LANGUAGES -->
-<section align=center>
-  <h2>LANGUAGES</h2>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html.svg" alt="HTML"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg" alt="CSS"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" alt="JS"></a>
-    <h3 style="margin-top:0">Front-end</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://www.rust-lang.org"><img src="./icons/ferris.svg" alt="RUST"></a>
-    <a href="https://go.dev"><img src="./icons/gopher.svg" alt="GO"></a>
-    <h3 style="margin-top:0">Back-end</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://sql.sh/"><img src="./icons/sql.svg" alt="SQL"></a>
-    <a href="https://graphql.org"><img src="./icons/graphql.svg" alt="GRAPHQL"></a>
-    <h3 style="margin-top:0">Database</h3>
-  </article>
-</section>
-<br>
+## LANGUAGES
+
+| Front-end | Back-end | Database |
+|:---------:|:---------:|:---------:|
+| [![HTML](./icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](./icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JS](./icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![RUST](./icons/ferris.svg)](https://www.rust-lang.org) [![GO](./icons/gopher.svg)](https://go.dev) | [![SQL](./icons/sql.svg)](https://sql.sh/) [![GRAPHQL](./icons/graphql.svg)](https://graphql.org/) |
 
 <!-- TECHNOLOGIES -->
-<section align=center>
-  <h2>TECHNOLOGIES</h2>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://www.gnu.org/software/bash/manual/bash.html"><img src="./icons/bash.svg" alt="BASH"></a>
-    <a href="https://git-scm.com/"><img src="./icons/git.svg" alt="GIT"></a>
-    <a href="https://doc.rust-lang.org/cargo/"><img src="./icons/cargo.svg" alt="CARGO"></a>
-    <h3 style="margin-top:0">Scripting</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://www.docker.com/"><img src="./icons/docker.svg" alt="DOCKER"></a>
-    <a href="https://docs.docker.com/compose/"><img src="./icons/compose.svg" alt="COMPOSE"></a>
-    <h3 style="margin-top:0">DevOps</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://developer.mozilla.org/fr/docs/Web/API/Web_components"><img src="./icons/components.svg" alt="COMPONENTS"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/SVG"><img src="./icons/svg.svg" alt="SVG"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSocket"><img src="./icons/websocket.svg" alt="WEBSOCKET"></a>
-    <h3 style="margin-top:0">Web</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href="https://sqlite.org/"><img src="./icons/sqlite.svg" alt="SQLITE"></a>
-    <a href="https://toml.io/en/"><img src="./icons/toml.svg" alt="TOML"></a>
-    <a href="https://www.json.org/json-en.html"><img src="./icons/json.svg" alt="JSON"></a>
-    <h3 style="margin-top:0">Data</h3>
-  </article>
-</section>
-<br>
+## TECHNOLOGIES
+
+| Scripting | DevOps | Web | Data |
+|:---------:|:---------:|:---------:|:---------:|
+| [![BASH](./icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html) [![GIT](./icons/git.svg)](https://git-scm.com/) [![CARGO](./icons/cargo.svg)](https://doc.rust-lang.org/cargo/) | [![DOCKER](./icons/docker.svg)](https://www.docker.com/) [![COMPOSE](./icons/compose.svg)](https://docs.docker.com/compose/) | [![COMPONENTS](./icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components) [![SVG](./icons/svg.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG) [![WEBSOCKET](./icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) | [![SQLITE](./icons/sqlite.svg)](https://sqlite.org/) [![TOML](./icons/toml.svg)](https://toml.io/en/) [![JSON](./icons/json.svg)](https://www.json.org/json-en.html) |
 
 <!-- TOOLS -->
-<section align=center>
-  <h2>TOOLS</h2>
-  <article style="display: inline-block; margin: 3%">
-    <a href=""><img src="./icons/github.svg" alt="GITHUB"></a>
-    <a href=""><img src="./icons/gitkraken.svg" alt="KRAKEN"></a>
-    <h3 style="margin-top:0">Version Control</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href=""><img src="./icons/vscode.svg" alt="VSCODE"></a>
-    <a href=""><img src="./icons/cursor.svg" alt="CURSOR"></a>
-    <h3 style="margin-top:0">Code Editors</h3>
-  </article>
-  <article style="display: inline-block; margin: 3%">
-    <a href=""><img src="./icons/warp.svg" alt="WARP"></a>
-    <a href=""><img src="./icons/desktop.svg" alt="DESKTOP"></a>
-    <a href=""><img src="./icons/postman.svg" alt="POSTMAN"></a>
-    <h3 style="margin-top:0">Platforms</h3>
-  </article>
-</section>
-<br>
+## TOOLS
 
-<!-- OPERATING SYSTEM -->
-<section align=center>
-  <h2>OPERATING SYSTEMS</h2>
-  <a href=""><img src="./icons/macos.svg" alt="MACOS"></a>
-  <a href=""><img src="./icons/tux.svg" alt="LINUX"></a>
-  <a href=""><img src="./icons/ubuntu.svg" alt="UBUNTU"></a>
-</section>
-<br>
+| Version Control | Code Editors | Platforms |
+|:--------------:|:------------:|:----------:|
+| [![GITHUB](./icons/github.svg)]() [![KRAKEN](./icons/gitkraken.svg)]() | [![VSCODE](./icons/vscode.svg)]() [![CURSOR](./icons/cursor.svg)]() | [![WARP](./icons/warp.svg)]() [![DESKTOP](./icons/desktop.svg)]() [![POSTMAN](./icons/postman.svg)]() |
+
+<!-- OPERATING SYSTEMS -->
+## OPERATING SYSTEMS
+
+[![MACOS](./icons/macos.svg)]() [![LINUX](./icons/tux.svg)]() [![UBUNTU](./icons/ubuntu.svg)]()
 
 <!-- STATS -->
 <section align=center>
@@ -101,7 +45,7 @@
 </div>
 
 <!-- CONTACT -->
-<section align=center>
+<section align=right>
   <h2>CONTACT</h2>
   <a href="https://www.linkedin.com/in/d4rkjvck"><img src="./icons/linked_in.svg" alt="LINKEDIN"></a>
   <a href=""><img src="./icons/discord.svg" alt="DISCORD"></a>
