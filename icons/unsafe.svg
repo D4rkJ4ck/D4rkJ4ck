@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="128px" height="96px" viewBox="0 0 1240.298 811.376" enable-background="new 0 0 1240.298 811.376"
-	 xml:space="preserve">
+<!-- <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	width="128px" height="96px" viewBox="0 0 1240.298 811.376"
+	enable-background="new 0 0 1240.298 811.376"
+	xml:space="preserve">
 <rect x="303.062" y="408.688" fill="#E33D27" width="440" height="322.312"/>
 <polygon fill="#F37056" points="548.062,459 543.062,491 595.48,475 631.558,487 620.149,516.493 673.576,524.134 713.745,584 
 	700.062,644.844 753.914,671 780.201,542.318 678.062,433.837 "/>

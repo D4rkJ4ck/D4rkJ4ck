@@ -1,13 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Made by gilbarbara: https://github.com/gilbarbara/logos -->
-<svg width="64px" height="64px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg"
+<svg width="48px" height="48px" viewBox="0 0 256 256" version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
     <defs>
-        <linearGradient x1="15.7913036%" y1="14.7370493%" x2="91.0087401%" y2="85.2281246%" id="linearGradient-1">
+        <linearGradient x1="15.7913036%" y1="14.7370493%" x2="91.0087401%" y2="85.2281246%"
+            id="linearGradient-1">
             <stop stop-color="#000000" offset="0%"></stop>
             <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>
-        <linearGradient x1="82.1356665%" y1="85.2373953%" x2="-3.11315442%" y2="14.7900497%" id="linearGradient-2">
+        <linearGradient x1="82.1356665%" y1="85.2373953%" x2="-3.11315442%" y2="14.7900497%"
+            id="linearGradient-2">
             <stop stop-color="#000000" offset="0%"></stop>
             <stop stop-color="#FFFFFF" offset="100%"></stop>
         </linearGradient>

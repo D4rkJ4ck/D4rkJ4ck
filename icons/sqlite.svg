@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="64px" height="64px" viewBox="2 1 28 30" xmlns="http://www.w3.org/2000/svg"
+<svg width="48px" height="48px" viewBox="2 1 28 30" xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
         <linearGradient id="a" x1="-118.318" y1="45.638" x2="-116.751" y2="45.638"
-            gradientTransform="matrix(0, 11.486, 11.486, 0, -510.889, 1363.307)" gradientUnits="userSpaceOnUse">
+            gradientTransform="matrix(0, 11.486, 11.486, 0, -510.889, 1363.307)"
+            gradientUnits="userSpaceOnUse">
             <stop offset="0" stop-color="#97d9f6" />
             <stop offset="0.92" stop-color="#0f80cc" />
             <stop offset="1" stop-color="#0f80cc" />
