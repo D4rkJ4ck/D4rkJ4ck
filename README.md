@@ -3,6 +3,7 @@
   <br>
   D4RKJVCK
 </h1>
+<br>
 
 <!-- LANGUAGES -->
 <section align=center>
@@ -15,6 +16,7 @@
   <a href="https://sql.sh/"><img src="./icons/sql.svg" alt="SQL"></a>
   <a href="https://graphql.org"><img src="./icons/graphql.svg" alt="GRAPHQL"></a>
 </section>
+<br>
 
 <!-- TECHNOLOGIES -->
 <section align=center>
@@ -31,6 +33,7 @@
   <a href="https://toml.io/en/"><img src="./icons/toml.svg" alt="TOML"></a>
   <a href="https://www.json.org/json-en.html"><img src="./icons/json.svg" alt="JSON"></a>
 </section>
+<br>
 
 <!-- TOOLS -->
 <section align=center>
@@ -43,6 +46,7 @@
   <a href=""><img src="./icons/desktop.svg" alt="DESKTOP"></a>
   <a href=""><img src="./icons/postman.svg" alt="POSTMAN"></a>
 </section>
+<br>
 
 <!-- OPERATING SYSTEM -->
 <section align=center>
@@ -51,6 +55,7 @@
   <a href=""><img src="./icons/tux.svg" alt="LINUX"></a>
   <a href=""><img src="./icons/ubuntu.svg" alt="UBUNTU"></a>
 </section>
+<br>
 
 <!-- CONTACT -->
 <section align=center>
@@ -59,12 +64,17 @@
   <a href=""><img src="./icons/discord.svg" alt="DISCORD"></a>
   <a href=""><img src="./icons/telegram.svg" alt="TELEGRAM"></a>
 </section>
-
+<br>
 
 <!-- STATS -->
 <section align=center>
   <h2>STATS</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=d4rkjvck&show_icons=true&theme=transparent" alt="STATS">
 </section>
+<br>
 
+
+<br>
+<div align=center>
   <img alt="brain_fuck" src="./brain_fuck.png" width="500px">
+</div>
