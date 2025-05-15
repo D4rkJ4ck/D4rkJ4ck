@@ -6,20 +6,20 @@
 <br>
 
 <!-- LANGUAGES -->
-<section align=center>
-  <h2>LANGUAGES</h2>
-  <article style="display: inline-block; margin: 0 5%">
+<h2>LANGUAGES</h2>
+<section align=center style="display: flex; gap: 5%; justify-content: center">
+  <article style="display: inline-block">
     <h3>Front-end</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="./icons/html.svg" alt="HTML"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="./icons/css.svg" alt="CSS"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./icons/javascript.svg" alt="JS"></a>
   </article>
-  <article style="display: inline-block; margin: 0 5%">
+  <article style="display: inline-block">
     <h3>Back-end</h3>
     <a href="https://www.rust-lang.org"><img src="./icons/ferris.svg" alt="RUST"></a>
     <a href="https://go.dev"><img src="./icons/gopher.svg" alt="GO"></a>
   </article>
-  <article style="display: inline-block; margin: 0 5%">
+  <article style="display: inline-block">
     <h3>Database</h3>
     <a href="https://sql.sh/"><img src="./icons/sql.svg" alt="SQL"></a>
     <a href="https://graphql.org"><img src="./icons/graphql.svg" alt="GRAPHQL"></a>
