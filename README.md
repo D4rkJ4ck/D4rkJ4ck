@@ -69,10 +69,10 @@
 <!-- STATS -->
 <section align=center>
   <h2>STATS</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=d4rkjvck&show_icons=true&theme=transparent" alt="STATS">
+  <img height="250" align=center src="https://github-readme-stats.vercel.app/api?username=d4rkjvck&show_icons=true&theme=transparent" alt="STATS">
+  <img height="250" align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4rkjvck&layout=compact&theme=transparent" alt="TOP LANG">
 </section>
 <br>
-
 
 <br>
 <div align=center>
