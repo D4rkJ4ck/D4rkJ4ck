@@ -1,6 +1,6 @@
 ![BANNER](./banner.jpg)
 
-# <img align=center alt="Ferris" src="./icons/unsafe.svg"> J0HN, at your service...
+# <img align=center alt="Ferris" src="./icons/unsafe.svg"> J0hn, at your service...
 
 <div align=right>
 <!-- LANGUAGES -->
