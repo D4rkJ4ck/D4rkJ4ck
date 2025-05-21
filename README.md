@@ -40,6 +40,7 @@
 [![MACOS](./icons/macos.svg)]()
 [![LINUX](./icons/tux.svg)]()
 [![UBUNTU](./icons/ubuntu.svg)]()
+[![ALPINE](./icons/alpine.svg)]()
 
 <!-- STATS -->
 <section align=center>
