@@ -5,39 +5,42 @@
 <div align=right>
 <h2>PROGRAMMING LANGUAGES</h2>
 
-| Frontend | Backend | Systems |
-|:--------:|:-------:|:-------:|
-| [![JS](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![GO](icons/gopher.svg)](https://go.dev) | [![RUST](icons/ferris.svg)](https://www.rust-lang.org) |
+|   |   |
+|:-:|:-:|
+|Frontend|[![JS](icons/javascript.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|
+|Backend|[![GO](icons/gopher.svg)](https://go.dev)|
+|Systems|[![RUST](icons/ferris.svg)](https://www.rust-lang.org)|
 
 </div>
 
 <h2>TECHNOLOGIES</h2>
 
-| Web | Database | DevOps | CLI | Format |
-|:---:|:--------:|:------:|:-------:|:----:|
-| [![HTML](icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML) | [![SQLITE](icons/sqlite.svg)](https://sqlite.org/) | [![DOCKER](icons/docker.svg)](https://www.docker.com/) | [![BASH](icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html) | [![JSON](icons/json.svg)](https://www.json.org/json-en.html) |
-| [![CSS](icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS) | [![SQL](icons/sql.svg)](https://sql.sh/) | [![COMPOSE](icons/compose.svg)](https://docs.docker.com/compose/) | [![GIT](icons/git.svg)](https://git-scm.com/) | [![TOML](icons/toml.svg)](https://toml.io/en/) |
-| [![SVG](icons/svg.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG) | [![GRAPHQL](icons/graphql.svg)](https://graphql.org/) | | [![CARGO](icons/cargo.svg)](https://doc.rust-lang.org/cargo/) | |
-| [![COMPONENTS](icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components) | | | | |
-| [![WEBSOCKET](icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) | | | | |
-
+|   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|Web|[![HTML](icons/html.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)|[![CSS](icons/css.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)|[![SVG](icons/svg.svg)](https://developer.mozilla.org/en-US/docs/Web/SVG)|[![COMPONENTS](icons/components.svg)](https://developer.mozilla.org/fr/docs/Web/API/Web_components)|[![WEBSOCKET](icons/websocket.svg)](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)|
+|Databases|[![POSTGRES](icons/postgres.svg)](https://www.postgresql.org)|[![SQLITE](icons/sqlite.svg)](https://sqlite.org/)|[![SQL](icons/sql.svg)](https://sql.sh/)|[![GRAPHQL](icons/graphql.svg)](https://graphql.org/)|
+|DevOps|[![DOCKER](icons/docker.svg)](https://www.docker.com/)|[![COMPOSE](icons/compose.svg)](https://docs.docker.com/compose/)|
+|CLI|[![BASH](icons/bash.svg)](https://www.gnu.org/software/bash/manual/bash.html)|[![GIT](icons/git.svg)](https://git-scm.com/)|[![CARGO](icons/cargo.svg)](https://doc.rust-lang.org/cargo/)|
+|Format|[![JSON](icons/json.svg)](https://www.json.org/json-en.html)|[![TOML](icons/toml.svg)](https://toml.io/en/)|[![YML](./icons/yml.svg)](https://yaml.org)| [![MARKDOWN](./icons/markdown.svg)]()|
 
 <div align=right>
 <h2>TOOLS</h2>
 
-| Editors | Clients | Platforms | Terminals |
-|:-------:|:-------:|:----------:|:--------:|
-| [![CURSOR](icons/cursor.svg)]() | [![DESKTOP](icons/desktop.svg)]() | [![GITHUB](icons/github.svg)]() | [![WARP](icons/warp.svg)]() |
-| [![VSCODE](icons/vscode.svg)]() | [![KRAKEN](icons/gitkraken.svg)]() | [![POSTMAN](icons/postman.svg)]() | |
+|   |   |   |   |
+|:-:|:-:|:-:|:-:|
+|Editors|[![CURSOR](icons/cursor.svg)]()|[![VSCODE](icons/vscode.svg)]()|
+|Clients|[![DRAWIO](./icons/drawio.svg)]()|[![GITKRAKEN](./icons/gitkraken.svg)]()|
+|Platforms|[![GITHUB](icons/github.svg)]()|[![DESKTOP](icons/desktop.svg)]()|[![POSTMAN](icons/postman.svg)]()|
+|Terminals|[![WARP](icons/warp.svg)]()|
 
 </div>
 
 <h2>OPERATING SYSTEMS</h2>
 
-| Base | Distros |
-|:----:|:-------:|
-| [![MACOS](icons/macos.svg)]() | [![UBUNTU](icons/ubuntu.svg)]() |
-| [![LINUX](icons/tux.svg)]() | [![ALPINE](icons/alpine.svg)]() |
+|   |   |   |
+|:-:|:-:|:-:|
+|Base|[![MACOS](icons/macos.svg)]()|[![LINUX](icons/tux.svg)]()|
+|Distros|[![UBUNTU](icons/ubuntu.svg)]()|[![ALPINE](icons/alpine.svg)]()|
 
 
 <section align=center>
